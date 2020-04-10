@@ -1,0 +1,50 @@
+
+$ vi "testdemo.t
+$ vi "testdemo.txt"
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+$ git add "testdemo.txt"
+fatal: pathspec 'testdemo.txt' did not match any files
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+$ ls
+README.md
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+
+$ vi "testdemo.txt"
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+$ git add "testdemo.txt"
+fatal: pathspec 'testdemo.txt' did not match any files
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+$ ls
+README.md
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+
+$ vi "testdemo.txt"
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+$ git add "testdemo.txt"
+fatal: pathspec 'testdemo.txt' did not match any files
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+$ ls
+README.md
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+
+$ vi "testdemo.txt"
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+$ git add "testdemo.txt"
+fatal: pathspec 'testdemo.txt' did not match any files
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+$ ls
+README.md
+
+Dell@DESKTOP-Q12N2SA MINGW64 ~/devopsDemo (Release)
+
